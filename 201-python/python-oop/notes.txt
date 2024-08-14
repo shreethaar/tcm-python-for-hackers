@@ -1,0 +1,6 @@
+inheritance -> leverage existing structure
+polymorphism -> enables class-specific behaviour
+encapsulation -> secure and protect attributes and methods
+overloading -> extendible and modular
+
+
