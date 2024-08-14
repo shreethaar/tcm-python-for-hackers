@@ -1,0 +1,20 @@
+https://en.wikipedia.org/wiki/Windows_API
+https://en.wikipedia.org/wiki/Microsoft_Windows_library_files
+https://en.wikipedia.org/wiki/Unicode
+https://en.wikipedia.org/wiki/Function_prototype
+
+Note; when interfacing with ctypes and the Windows API, the lessons will often achieve the same outcomes in different ways. Python and ctypes enable you as the developer to control how you import and interface with the library and associated functions.
+
+
+
+The Windows API
+- mechanism to interface with Windows OS
+- mostly described by the Microsoft Developer (MSDN)
+- some functions are not officially documentted
+- comprised of functions, structures and constants
+- including windows defined data types
+- dynamic entity which can change and expand between releases
+- official implementation is on your Windows machine (in DLLs)
+- Ctypes enables us to wrap python around C
+- speaking C lets us interfaec with the Windows API
+
